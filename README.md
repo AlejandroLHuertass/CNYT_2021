@@ -1,13 +1,3 @@
-# LIBRERÍA COMPUTACIÓN CUÁNTICA: NÚMEROS COMPLEJOS
+# Ciencias Naturales y tecnología CVDS G1 2021
 
-* Librería para hacer operaciones entre números complejos. 
-* La librería debe soporta las siguientes operaciones entre números complejos:
-
-  - Suma
-  - Producto
-  - Resta
-  - División
-  - Módulo
-  - Conjugado
-  - Conversión entre representaciones polar y cartesiano
-  - Retornar la fase de un número complejo.
+* Libreria de Numeros complejos (Entregadon, ver en carpeta)
