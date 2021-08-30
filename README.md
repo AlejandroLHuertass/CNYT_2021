@@ -1,4 +1,4 @@
-# Ciencias Naturales y tecnología CVDS G1 2021
+# Ciencias Naturales y tecnología CNYT G1 2021
 
 ### Steven Alejandro Huertas Lemus
 
