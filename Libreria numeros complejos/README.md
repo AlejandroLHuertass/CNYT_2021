@@ -1,8 +1,8 @@
 # LIBRERÍA COMPUTACIÓN CUÁNTICA: NÚMEROS COMPLEJOS
 
-*Librería para hacer operaciones entre números complejos.
+* Librería para hacer operaciones entre números complejos.
 
-*La librería debe soporta las siguientes operaciones entre números complejos:
+* La librería debe soporta las siguientes operaciones entre números complejos:
 
 	- Suma
 	- Producto
