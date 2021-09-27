@@ -28,8 +28,14 @@
 ![image](https://user-images.githubusercontent.com/88836525/134415595-fc5d58b7-67c3-44b4-8d85-caaac9950cbc.png)
 
 ![image](https://user-images.githubusercontent.com/88836525/134847455-6fbb8c93-b4b4-4b31-9d40-5e59e5a3bbb5.png)
+![image](https://user-images.githubusercontent.com/88836525/134847633-117bbd6d-3525-4b23-b2a3-850fd26e4d1a.png)
+![image](https://user-images.githubusercontent.com/88836525/134847650-fc0d34db-35a9-4a88-b1f5-bb165f4684ee.png)
+![image](https://user-images.githubusercontent.com/88836525/134847669-f21f5b14-595d-42ae-9fb7-294604661098.png)
+![image](https://user-images.githubusercontent.com/88836525/134847708-3c81b5f8-2cf7-40df-adae-6ff9d3798db2.png)
+
 
 
 ## Experimento de las múltiples rendijas cuántico.
 ![image](https://user-images.githubusercontent.com/88836525/134415615-36ac278c-d36a-42b2-93c2-8296256a7122.png)
 
+![image](https://user-images.githubusercontent.com/88836525/134847778-e4ef539f-1d98-47d9-a23f-b5af721790e2.png)
