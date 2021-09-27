@@ -32,5 +32,5 @@ def main():
 
     for i in range(int(input("Ingrese numero de Clics"))):
   
-        gn.mat_plot(multiplicacion_matriz(vector,matriz,i),)
+        gn.mat_plot(multiplicacion_matriz(vector,matriz,i),i)
 main()
