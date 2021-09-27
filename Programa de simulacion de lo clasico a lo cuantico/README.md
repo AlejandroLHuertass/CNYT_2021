@@ -74,10 +74,28 @@ En un tercer click deberia mantenerse ya que por la propiedad del producto deber
 
 
 ## Experimento de las múltiples rendijas cuántico.
+
+Muestra del programa en python
+
 ![image](https://user-images.githubusercontent.com/88836525/134415615-36ac278c-d36a-42b2-93c2-8296256a7122.png)
-![image](https://user-images.githubusercontent.com/88836525/134847882-e58f6bd1-07a7-4696-b2d5-7d160ad8768b.png)
-![image](https://user-images.githubusercontent.com/88836525/134847896-83b2831e-363e-4111-ab76-5353119e43f8.png)
+
+El vector graficado en el click 0
+
 ![image](https://user-images.githubusercontent.com/88836525/134847936-d6cdb772-68a2-4783-86cc-86cb8373b1ad.png)
+
+Se enseña el resultado en el primer click
+
+![image](https://user-images.githubusercontent.com/88836525/134847882-e58f6bd1-07a7-4696-b2d5-7d160ad8768b.png)
+
+El la libreria tenemos la grafica en el primer click correctamente, ademas de su grafica
+
 ![image](https://user-images.githubusercontent.com/88836525/134847974-73eda209-7052-40bc-83ba-37b3e2563e9e.png)
+
+Se neseña el resultado en el segundo click
+
+![image](https://user-images.githubusercontent.com/88836525/134847896-83b2831e-363e-4111-ab76-5353119e43f8.png)
+
+El la libreria tenemos la grafica en el primer segundo correctamente, ademas de su grafica
+
 ![image](https://user-images.githubusercontent.com/88836525/134848001-38cde30a-d264-44b2-b7ee-8bf0e1ef8eae.png)
 
